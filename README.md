@@ -7,6 +7,8 @@ This folder contains a series of programs that using Python in SAS Studio via th
 - You will need access to SAS Viya.
 - Python will need to be setup by your admin on SAS Viya.
 
+## Project Folders
+
 ### Census API with Python and Visual Analytics
 Use Python in SAS Studio to read data from the US Census API and push the table to SAS Visual Analytics to create a dashboard.
 
