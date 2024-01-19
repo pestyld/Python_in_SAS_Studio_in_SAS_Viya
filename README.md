@@ -11,19 +11,19 @@ This folder contains a series of programs that using Python in SAS Studio via th
 Use Python in SAS Studio to read data from the US Census API and push the table to SAS Visual Analytics to create a dashboard.
 
 ### Create Folders in the SAS Server
-Use the os package to create folders on the SAS server.
+Use the os package to create folders on the SAS server (need required permissions).
 
 ### Excel Report with SAS Python and SQL
 Create an Excel report using SAS, Python and SQL!
 
 ### Getting Started with Python in SAS Studio
-add desc
+Simple program using the Python Editor and PROC PYTHON to prepare data.
 
 ### SQL Using Python in Studio
-add desc
+How to submit SQL queries in SAS using Python.
 
 ### SWAT Package in the Python Editor
-add desc
+Using the SWAT package in SAS Studio's Python Editor.
 
 ### Using SAS Callback Methods in PROC PYTHON or Python Editor
-add desc
+Introduction to using the SAS callback methods in PROC PYTHON and the Python Editor.
